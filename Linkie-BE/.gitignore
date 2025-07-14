@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Môi trường ảo
+venv/
+env/
+.env
+
+# Thư mục IDE
+.vscode/
+.idea/
+
+# Tệp hệ thống
+*.log
+*.bak
+
+# Tệp cấu hình hệ thống
+.DS_Store
+Thumbs.db
